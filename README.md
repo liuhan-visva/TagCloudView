@@ -3,7 +3,7 @@ TagCloudView
 
 A 3D spherical tag cloud view of Android.
 
-[Here](https://github.com/apparition47/DBSphereTagCloudSwift) is the *Swift* version of the cloud view. Thanks for [apparition47](https://github.com/apparition47).
+[Here]For IOS (https://github.com/apparition47/DBSphereTagCloudSwift) is the *Swift* version of the cloud view. Thanks for [apparition47](https://github.com/apparition47).
 
 ## Introduction
 
