@@ -1,0 +1,2 @@
+include ':app', ':TagCloudView'
+rootProject.name='TabCloud'
