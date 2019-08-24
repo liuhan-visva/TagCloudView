@@ -17,6 +17,9 @@ You can customize the code easily because the code is simple.
 * auto rotation 自动旋转效果
 * inertial effect after rotation 惯性滚动效果
 
+##Screenshot
+![avatar](https://raw.githubusercontent.com/ancircle0/TagCloudView/master/screenshot/5d6089b882827_5d6089b8cfd8f.gif)
+
 ## License
 
 Under MIT License.
